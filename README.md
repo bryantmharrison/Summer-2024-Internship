@@ -1,7 +1,7 @@
 # Summer 2024 Internship
 Quality Process Engineering Intern at the Michelin Corporation
 
-This Michelin internship a wonderful experience that allowed me to meet professionals in engineering and engineering-related fields. I built connections with the peronnel on site and the other interns based in the same areas. I learned about the tire manufacturing process and the role of my plant in the production of large earthmover tires (up to 77 inches in diameter!). This involved working closely with new machines and machine operators throughout the summer from May-August of 2024.
+This Michelin internship a wonderful experience that allowed me to meet professionals in engineering and engineering-related fields. I built connections with the personnel on site and the other interns based in the same areas. I learned about the tire manufacturing process and the role of my plant in the production of large earthmover tires (up to 77 inches in diameter!). This involved working closely with new machines and machine operators throughout the summer from May-August of 2024.
 
 ### Daily Tasks
 Shop Floor Tours
@@ -59,7 +59,7 @@ Design Process
 4. Disk Size Setback
 
 ![Demonstration of disk size issues](https://github.com/user-attachments/assets/c1262814-2107-405e-8f58-a66ae9c39f61)
-   * It was discovered that the Michelin drawings called out 9-millimeter (mm) disks, when 11mm disks were needed
+   * It was discovered that the Michelin drawings called out 9mm disks (on top roller), when 11mm disks (on bottom roller) were needed
    * Rescinded the drawing from being able to be sent to a manufacturer
    * Began to rework the drawing
 
