@@ -85,4 +85,32 @@ Design Process
 * Began tracking percentage of cable quality to help track benefits of the project
 ![Cable path analysis](https://github.com/user-attachments/assets/de657818-8aad-417f-9ba3-d753c202da56)
 
+**The hybrid rollers have just begun to be installed. We hope to see noticeable impact as the rollers are put in place over the next few months. We predict that the rollers will save 20 man-hours of time set aside for adjusting cable paths each week. All-in-all, the project cost the company about $200,000.**
+
 ## Commercial Items - Side Projects
+### Cable Bobbin Cart
+* Operators need a cart to carry non-conforming cable spindles (called bobbins) to the designated non-conform area
+* Ones in place had worn down
+* Found possible commercial solutions and created a presentation to gather ideas from operators in the N1
+* Settled on a wire tree
+* Sent to personnel manager for ordering
+![501 Wire Tree for cable bobbins](https://github.com/user-attachments/assets/4a9d2acd-a39e-4770-9ed3-03c0199d7b70)
+
+### Welder Magnet
+* Welders used on cables are often not cleaned
+* Some operators suggested the adoption of magnetic tools to clean the welders
+* Found a commercial magnetic wand with extension capabilities and ability to turn on/off
+* Sent to personnel manager for ordering
+![Metallic chip collector wand](https://github.com/user-attachments/assets/045326a6-6add-41e4-9beb-6c52c15cd801)
+
+**This item was ordered and received, but other similar items were put in place. The change was noticeable immediately, as the welders were significantly cleaner within days.**
+
+### Tension Meter
+* Currently, machine specialists would use a fish scale to tug on cables in the machine to check tension
+* Decided to research tension meters to find a solution
+* Found many types of tension meters similar to ones used before (now antiquated)
+* Manager decided none of these were fit for the issue
+* Instead, we found and ordered a new digitized fish scale as a temporary upgrade
+![Digital Fish Scale](https://github.com/user-attachments/assets/00b9ae11-72f7-4468-a1bb-2c15d7c8ef16)
+
+# Threading Diagram - Second Project
